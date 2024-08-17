@@ -1,7 +1,7 @@
 /**
  * @平行绳 飞机频道：https://t.me/tigerorrose
  * 变量：elmck: 必填，账号cookie，短信登录面板项目地址：https://github.com/funaihui/eleWeb
- * cron 3 3 * * *
+ * cron 3 3 * * 
  * 2023.12.28 更新：首次发布；
  * USE_LYB：设置是否使用乐园币，true：使用（会使用乐园币购买翻倍卡和阳光卡），默认不使用
  * 2024.01.19 （1.0.0）更新：脚本添加版本号；优化脚本，减少报错；
